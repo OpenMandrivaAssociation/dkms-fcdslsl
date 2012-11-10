@@ -1,0 +1,8 @@
+sources:
+  "dkms-fcdslsl-dont-redefine-uintptr_t.patch:"	8152060a7d9117866458f0ae55e5bd0f0808c15f
+  "dkms-fcdslsl-remove-DECLARE_MUTEX_LOCKED.patch:"	90e9e535cd25228d864f28988fbcc9781892f0e0
+  "dkms-fcdslsl-update-device_interrupt-definition.patch:"	058ba85801d7ec8512b11a8e58d69ea172952867
+  "dkms-fcdslsl-update-irq-flags.patch:"	8389470f823d37a05569e27f6e9b6b6e06bbcc63
+  "dkms-fcdslsl-use-autoconf-header.patch:"	090549df6815e9f8761c7214b684b6d9dd8d5a01
+  "dkms-fcdslsl-use-pci_register_driver.patch:"	b14107d89aa03afd4e9300116b4741995cda0295
+  "fcdslsl-suse93-3.11-07.tar.bz2:"	c1dadb5ad6f22a42086493024f871dc2f1944416
